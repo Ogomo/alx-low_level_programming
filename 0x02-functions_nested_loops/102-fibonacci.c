@@ -17,7 +17,7 @@ int main(void)
 		printf("%ld", c);
 		if (n != 49)
 		{
-			printf(" ");
+			printf(",");
 		}
 		a = b;
 		b = c;
